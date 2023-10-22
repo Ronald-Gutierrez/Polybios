@@ -2,6 +2,10 @@
 
 Este es un programa de Python que permite cifrar y descifrar texto utilizando el cifrado de Polybios. El cifrado de Polybios es un método histórico que asigna letras a una matriz 5x5 y se utiliza para transmitir mensajes ocultos.
 
+<div align="center">
+  <img src="https://github.com/Ronald-Gutierrez/Polybios/raw/main/Interfaz.png" width="400" height="400">
+</div>
+
 ## Uso
 
 Para utilizar esta aplicación, sigue estos pasos:
